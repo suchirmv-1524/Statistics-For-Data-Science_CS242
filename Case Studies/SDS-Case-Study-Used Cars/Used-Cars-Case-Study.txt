@@ -1,0 +1,21 @@
+Tasks:
+
+1. Data Preprocessing : Calculate the percentage of null values for each column and eliminate columns containing over 20% null values.
+
+2. Exploratory Data Analysis (EDA):
+    1. Analyse the distribution of vehicle types in the dataset.
+    2. Determine most common fuel type among listed vehicles.
+    3. Calculate average horsepower of vehicles with most common fuel type.
+    4. Explore the distribution of city_fuel_economy among various cities.
+
+3. Advanced Analysis:
+    1. Examine price trend over the years for the top 5 most popular body types and visualise it.
+    2. Investigate relationship between back_legroom and price using correlation analysis and visualise it.
+    
+4. Regression Analysis:
+Utilise regression to predict car prices based on relevant features in the dataset
+
+Project Deliverables:
+● A Jupyter Notebook or Python script containing code to preprocess the data, perform analysis,and make predictions using Pandas and NumPy.
+● Visualizations (e.g. bargraphs, lineplots) to illustrate the findings from theexploratory analysis.
+● A trained regression model to predict car prices based on features in the dataset
